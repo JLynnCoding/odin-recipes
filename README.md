@@ -1,1 +1,2 @@
 # odin-recipes
+A repo containing the most masterful recipes of the Odin project, within which I will practice my html and related skills. I would imagine this will help me demonstrate my skills in git and html, including creating pages, links, and images. 
